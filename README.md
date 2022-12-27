@@ -1,1 +1,1 @@
-# monkey2
+# discord bot / commands script
